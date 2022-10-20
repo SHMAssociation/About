@@ -1,8 +1,8 @@
 ---
 name: Join Request
-about: request join us
-title: ''
-labels: ''
+about: request join us | 申请加入
+title: Join Request
+labels: 'Join Request'
 assignees: ''
 
 ---
