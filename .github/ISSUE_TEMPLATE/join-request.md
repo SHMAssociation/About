@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Name**
-你的github账户名
+你的名字，可以有别于github账户名，会在特定场合优先使用
 
 **What do you want to do**
 你来做什么
