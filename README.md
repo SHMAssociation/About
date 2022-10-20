@@ -8,7 +8,7 @@ Hirakahna Royal Magic Association (HRMA)，是一个主要成员位于极东地�
 
 ## 如何申请圣•希娜卡纳魔导结社  
 
-去申请家圣•希娜卡纳魔导结社，您不需要出示学历以及成绩，不需要展示自己的魔法水平或者魔导器。您需要做的只是在此<ruby>存储库<rp>（</rp><rt>repository</rt><rp>）</rp></ruby>打开一个 issue 并且阐述您想要加入圣•希娜卡纳魔导结社。 
+去申请家圣•希娜卡纳魔导结社，您不需要出示学历以及成绩，不需要展示自己的魔法水平或者魔导器。您需要做的只是在此<ruby>存储库<rp>（</rp><rt>repository</rt><rp>）</rp></ruby>打开一个 [issue](./issues/new?assignees=&labels=Join+Request&template=join-request.md&title=Join+Request)并且阐述您想要加入圣•希娜卡纳魔导结社。 
 
 通常地，在接受您的申请后，一封邀请信会发送至您与 GitHub 相关联的邮箱内。如果您没有收到任何邮件，但是您的申请已被批准，尝试点击 [这个链接](https://github.com/orgs/HRMAssociation/invitation?via_email=1)。通常地，它会工作。如果它没有，请与我们直接取得联系。
 
